@@ -1,4 +1,4 @@
-## Math Magicians
+## To DO App
 
 In this project I have built a todo list web app using React. This website enables the user to add, edit and delete todos.
 
@@ -11,7 +11,7 @@ In this project I have built a todo list web app using React. This website enabl
   
 ## Live Demo
 
-Not available currently
+[Live demo](https://eyasuteshome.github.io/react-todo-app/)
 
 ## Getting Started
 
