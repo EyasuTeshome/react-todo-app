@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EyasuTeshome.github.io/react-todo-app/static/css/main.83b8992e.css",
+    "main.js": "/EyasuTeshome.github.io/react-todo-app/static/js/main.45607a31.js",
+    "index.html": "/EyasuTeshome.github.io/react-todo-app/index.html",
+    "main.83b8992e.css.map": "/EyasuTeshome.github.io/react-todo-app/static/css/main.83b8992e.css.map",
+    "main.45607a31.js.map": "/EyasuTeshome.github.io/react-todo-app/static/js/main.45607a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b8992e.css",
+    "static/js/main.45607a31.js"
+  ]
+}
